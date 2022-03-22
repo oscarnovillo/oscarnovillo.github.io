@@ -1,6 +1,6 @@
 layout: page
 title: "INCIIO"
-permalink: /index.html
+permalink: /indice.html
 
 #TITULO
 Contenido
