@@ -1,2 +1,6 @@
+---
+  nombre: test
+---
+
 # TITULO
 Contenido
