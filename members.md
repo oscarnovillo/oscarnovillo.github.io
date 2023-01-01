@@ -5,6 +5,8 @@ title: members
 
 # Members
 
+[ver]({{ /members/juan.html | relative_url }})
+
 {% for member in site.members %}
     [ver]({{ member.url }})
   <h2>{{ member.name }} - {{ member.position }}</h2>
