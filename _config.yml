@@ -1,5 +1,5 @@
-#theme: minima
-remote_theme: mattvh/jekyllthemes
+theme: minima
+#remote_theme: mattvh/jekyllthemes
 defaults:
   - scope:
       path: "assets/img"
