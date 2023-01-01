@@ -1,3 +1,7 @@
+---
+title: home
+---
+
 ## Welcome to GitHub Pages
 
 <ul>

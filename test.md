@@ -1,5 +1,5 @@
 ---
-  nombre: test
+  title: test
 ---
 
 # TITULO
