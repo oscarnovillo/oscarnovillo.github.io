@@ -2,6 +2,7 @@
 title: Juan
 name: Juan
 position: jefe
+layout: posts
 
 ---
 
