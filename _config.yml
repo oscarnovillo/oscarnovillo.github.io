@@ -12,3 +12,7 @@ collections:
 
 minima:
   skin: dark
+
+author:
+  name: name
+  
