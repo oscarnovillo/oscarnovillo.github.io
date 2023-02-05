@@ -1,5 +1,5 @@
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 defaults:
   - scope:
       path: "assets/img"
@@ -9,3 +9,6 @@ defaults:
 collections:
   members:
     output: true
+
+minima:
+  skin: dark
