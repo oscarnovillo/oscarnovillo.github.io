@@ -1,16 +1,17 @@
-{% for post in paginator.posts %}
-  <div class="post">
-    <h1>{{ post.title }}</h1>
-    {{ post.content }}
-  </div>
-{% endfor %}
+---
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 
-<nav class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Más nuevo</a>
-  {% endif %}
+sidebar:
+  nav: "foo"    
+---
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Más antiguo</a>
-  {% endif %}
-</nav>
+Good headings:
+
+# Heading 1
+## Heading 2
+### Heading 3
+### Heading 4
+# Heading 5
+## Heading 6

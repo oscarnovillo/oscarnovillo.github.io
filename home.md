@@ -1,6 +1,6 @@
 ---
 title: home
-
+permalink: /
 ---
 
 ## Welcome to {{site.title}} {{page.title}} 
@@ -11,8 +11,8 @@ title: home
   </li>
 {% endfor %}
 </ul>
-
-
+ 
+ 
 <ul>
   {% for post in site.posts %}
     <li>
