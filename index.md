@@ -1,8 +1,9 @@
 ---
 title: home
+
 ---
 
-## Welcome to GitHub Pages
+## Welcome to {{site.title}} {{title}}
 
 <ul>
   {% for post in site.posts %}
