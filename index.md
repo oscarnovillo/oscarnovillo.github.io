@@ -33,6 +33,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+[Link](url) and ![Image]({{ site.url }}/test/index.html)
 
 [Link](url) and ![Image]({{ site.url }}/assets/img/logo-Jekyll.png)
 ```
