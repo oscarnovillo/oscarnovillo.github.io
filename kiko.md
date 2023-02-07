@@ -17,6 +17,9 @@ title: kiko
 |===
 | Footer row
 
+
+$$ 5 + 5 $$
+
 $$
 \begin{aligned}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
