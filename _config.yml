@@ -1,10 +1,12 @@
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
-- jekyll-remote-theme 
-- jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-remote-theme 
+  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-paginate
 
 title: hola ASIR2
 
@@ -29,8 +31,7 @@ collections:
   members:
     output: true
 
-plugins:
-  - jekyll-paginate
+
 
 # número de posts por página
 paginate: 2
