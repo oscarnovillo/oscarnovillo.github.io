@@ -3,7 +3,7 @@ title: kiko
 
 
 ---
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
 
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
