@@ -17,6 +17,10 @@ title: kiko
 |===
 | Footer row
 
+~~~javascript
+var theAnswer = 42;
+~~~
+
 
 $$ 5 + 5 $$
 

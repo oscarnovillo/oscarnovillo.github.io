@@ -3,7 +3,15 @@ title: home
 
 ---
 
-## Welcome to {{site.title}} {{title}}
+## Welcome to {{site.title}} {{page.title}} 
+<ul>
+{% for page in site.pages %}
+  <li>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 
 <ul>
   {% for post in site.posts %}

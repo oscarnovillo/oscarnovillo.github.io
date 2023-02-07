@@ -2,7 +2,7 @@ theme: minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: tuputepadre
+title: hola ASIR2
 
 defaults:
   - scope:
@@ -14,8 +14,15 @@ collections:
   members:
     output: true
 
-# minima:
-#   skin: dark
+plugins:
+  - jekyll-paginate
+
+# número de posts por página
+paginate: 2
+paginate_path: "/blog/page:num/"
+
+minima:
+  skin: dark
 
 author:
   name: oscar novillo
