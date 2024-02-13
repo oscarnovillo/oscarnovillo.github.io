@@ -1,5 +1,7 @@
 ---
 title: about
+permalink: /juju
+layout: posts_mio
 
 ---
 
