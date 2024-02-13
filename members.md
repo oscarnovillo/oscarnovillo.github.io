@@ -12,6 +12,7 @@ title: members
   {{ member.content | markdownify }}
 {% endfor %}
 
+
 {% for persona in site.data.personas %}
   ## {{ persona.nombre }} - {{ persona.edad }}
 {% endfor %}
