@@ -6,5 +6,7 @@
     { "nombre": "Javier", "edad": 17, "sexo": "M" },
     { "nombre": "Sandra", "edad": 28, "sexo": "F" },
     { "nombre": "Mario", "edad": 24, "sexo": "M" },
-    { "nombre": "Julia", "edad": 41, "sexo": "F"}
+    { "nombre": "Julia", "edad": 41, "sexo": "F"},
+    { "nombre": "Nacho", "edad": 10, "sexo": "F"}
+    
 ]
