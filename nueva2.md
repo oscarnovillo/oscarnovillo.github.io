@@ -2,7 +2,7 @@
 layout: page
 permalink: /yamal.html
 title: Categories
-category: sex,uncensored, boondys, costras
+category: boondys, costras
 
 ---
 
