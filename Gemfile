@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem 'jekyll'
+gem 'rake' # Añadir rake
 
 gem 'wdm', '>= 0.1.0'
 

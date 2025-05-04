@@ -23,6 +23,9 @@ sass:
   style: compressed
   sourcemap: never
 
+kramdown:
+  input: GFM
+  math_engine: mathjax # you can also set this field to 'katex'
 #SEO
 twitter:
   username: PandaSekh
