@@ -71,8 +71,8 @@
 
 | Fórmula | Descripción | Cuándo aplicarla |
 |---------|-------------|------------------|
-| $f = \frac{|q|B}{2\pi m}$ | Frecuencia de giro (frecuencia ciclotrónica) | Para calcular la frecuencia con la que una partícula cargada gira en un campo magnético |
-| $T = \frac{2\pi m}{|q|B}$ | Periodo de giro | Para calcular el tiempo que tarda una partícula en dar una vuelta completa |
+| $f = \frac{\|q\|B}{2\pi m}$ | Frecuencia de giro (frecuencia ciclotrónica) | Para calcular la frecuencia con la que una partícula cargada gira en un campo magnético |
+| $T = \frac{2\pi m}{\|q\|B}$ | Periodo de giro | Para calcular el tiempo que tarda una partícula en dar una vuelta completa |
 | $\frac{m}{q} = \frac{B^2 R^2}{2V}$ | Relación masa-carga | Para determinar la relación m/q de una partícula acelerada por un potencial V que entra en un campo B |
 
 ## 5. Magnetismo en la materia
