@@ -30,8 +30,8 @@
 | Fórmula | Descripción | Cuándo aplicarla |
 |---------|-------------|------------------|
 | $\vec{F} = q(\vec{v} \times \vec{B})$ | Fuerza de Lorentz | Para calcular la fuerza que ejerce un campo magnético sobre una carga eléctrica en movimiento |
-| $F = |q|vB\sin\theta$ | Módulo de la fuerza magnética | Para calcular la magnitud de la fuerza magnética (θ es el ángulo entre la velocidad y el campo) |
-| $R = \frac{mv}{|q|B}$ | Radio de la trayectoria circular | Cuando una carga se mueve perpendicular a un campo magnético uniforme |
+| $F = \|q\|vB\sin\theta$ | Módulo de la fuerza magnética | Para calcular la magnitud de la fuerza magnética (θ es el ángulo entre la velocidad y el campo) |
+| $R = \frac{mv}{\|q\|B}$ | Radio de la trayectoria circular | Cuando una carga se mueve perpendicular a un campo magnético uniforme |
 
 ### Fuerza sobre conductores con corriente
 
